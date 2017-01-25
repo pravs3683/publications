@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## This page provides links to instructional materials describing how to access and use the proteogenomic workflows described in the manuscript text.
 
-You can use the [editor on GitHub](https://github.com/pravs3683/publications/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/pravs3683/publications/edit/master/index.md) to maintain and preview the content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Workshop goals:
+
+- Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
+- Provide hands-on experience to attendees in using Galaxy
+- Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
+- Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data analysis needs (either specific to one domain or for multi-omics)
+
 
 ### Markdown
 
