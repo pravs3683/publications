@@ -1,0 +1,8 @@
+title: "Galaxy for Proteomics Data Analysis: An Interactive Demonstration"
+description: 64th ASMS Conference on Mass Spectrometry and Allied Topics
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
